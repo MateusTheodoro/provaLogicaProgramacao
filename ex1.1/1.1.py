@@ -11,5 +11,4 @@ pdois3 = float(produto2[2])
 calculo_um = pum2 * pum3
 calculo_dois = pdois2 * pdois3
 
-
 print(f'VALOR A PAGAR: R${calculo_um + calculo_dois:.2f}')
